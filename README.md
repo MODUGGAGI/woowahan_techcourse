@@ -34,5 +34,9 @@
 
 ### 진행 미션
 | 미션 | Repository | Pull Request | Pair | Reviewer |
-|:--:|:--:|:--:|:--:|:--:|
+|:---:|:---:|:---:|:---:|:---:|
 | Gemini Canvas 웹앱 만들기 | [gemini-canvas_web-app](https://github.com/MODUGGAGI/gemini-canvas-mission/tree/MODUGGAGI) | [Pull Request](https://github.com/woowacourse/gemini-canvas-mission/pull/76) | [도우너](https://github.com/Soojin6943) | [영이](https://github.com/choijy1705) |
+| 블랙잭/cycle1 | [java-blackjack-step1](https://github.com/MODUGGAGI/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/974) | [피즈](https://github.com/wontop02) | [주노](https://github.com/Choi-JJunho) |
+| 블랙잭/cycle2 | [java-blackjack-step2](https://github.com/MODUGGAGI/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/1090) | [피즈](https://github.com/wontop02) | [주노](https://github.com/Choi-JJunho) |
+
+### 블로그 포스팅
