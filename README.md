@@ -54,3 +54,28 @@
 | [Test Double과 Mockito 기초 사용법 알아보기](https://velog.io/@moduggagi/Test-Double과-Mockito-기초-사용법-알아보기) | 2026.03.23 |
 | [Stream.distinct() vs Set.copyOf() — 중복 제거, 뭐가 더 나을까?](https://velog.io/@moduggagi/Stream.distinct-vs-Set.copyOf) | 2026.03.22 |
 | [@MethodSource 동작 방식 알아보기](https://velog.io/@moduggagi/MethodSource-동작-방식-알아보기) | 2026.03.22 |
+
+---
+
+## 🚀 Level 2
+### 기간
+- 2026.04.27 ~ 2026.06.26
+
+### 학습 목표
+- 웹 애플리케이션을 개발하며 웹 백엔드 개발자의 기본 역량을 쌓는다.
+  - 주어진 요구사항에 맞춰 기능을 추가/변경하며 애플리케이션을 발전시켜 나간다.
+  - 클라우드 환경에 배포를 하여 사용자에게 서비스할 수 있는 최소한의 상태로 만든다.
+- 웹 애플리케이션 구현을 위해 필요한 새로운 기술을 학습한다.
+  - 이 과정에서 효과적으로 새로운 기술을 익힐 수 있는 본인만의 학습 방법을 찾는 시도를 한다.
+  - AI를 활용해 효과적인 나만의 학습 방식을 찾아본다.
+- 웹 프로그래밍 과정에서도 `읽기 좋은 코드, 유지보수하기 좋은 코드`를 작성하는 경험을 한다.
+
+### 진행 미션
+| 미션 | Repository | Pull Request | Pair | Reviewer |
+|:---:|:---:|:---:|:----:|:--------:|
+| 방탈출 예약 관리 | [spring-roomescape-admin](https://github.com/MODUGGAGI/spring-roomescape-admin) | [Pull Request](https://github.com/woowacourse/spring-roomescape-admin/pull/369) |  -   | [제이미]()  |
+
+### 블로그 포스팅
+| 제목 | 작성일 |
+|:---:|:---:|
+| [엔티티의 식별자(Primary Key)로 동등성 비교를 하면 어떻게 될까??](https://velog.io/@moduggagi/엔티티의-식별자로-동등성-비교를-하면-어떻게-될까) | 2026.05.04 |
