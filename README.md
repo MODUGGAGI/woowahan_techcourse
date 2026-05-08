@@ -38,5 +38,19 @@
 | Gemini Canvas 웹앱 만들기 | [gemini-canvas_web-app](https://github.com/MODUGGAGI/gemini-canvas-mission/tree/MODUGGAGI) | [Pull Request](https://github.com/woowacourse/gemini-canvas-mission/pull/76) | [도우너](https://github.com/Soojin6943) | [영이](https://github.com/choijy1705) |
 | 블랙잭/cycle1 | [java-blackjack-step1](https://github.com/MODUGGAGI/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/974) | [피즈](https://github.com/wontop02) | [주노](https://github.com/Choi-JJunho) |
 | 블랙잭/cycle2 | [java-blackjack-step2](https://github.com/MODUGGAGI/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/1090) | [피즈](https://github.com/wontop02) | [주노](https://github.com/Choi-JJunho) |
+| 장기/cycle1 | [java-janggi-step1](https://github.com/MODUGGAGI/java-janggi/tree/step1) | [Pull Request](https://github.com/woowacourse/java-janggi/pull/216) | [러키](https://github.com/Jiihyun) | [아루](https://github.com/donghoony) |
+| 장기/cycle2 | [java-janggi-step2](https://github.com/MODUGGAGI/java-janggi/tree/step2) | [Pull Request](https://github.com/woowacourse/java-janggi/pull/276) | [러키](https://github.com/Jiihyun) | [아루](https://github.com/donghoony) |
 
 ### 블로그 포스팅
+| 제목 | 작성일 |
+|:---:|:---:|
+| [코드 재사용을 위한 상속을 합성으로 바꾸기](https://velog.io/@moduggagi/코드-재사용을-위한-상속을-합성으로-바꾸기) | 2026.04.30 |
+| [HikariCP 내부 구조 파헤치기 (5) - HikariCP는 왜 빠른가](https://velog.io/@moduggagi/HikariCP-내부-구조-파헤치기-5-HikariCP는-왜-빠른가) | 2026.04.26 |
+| [HikariCP 내부 구조 파헤치기 (4) - 커넥션 반납 흐름](https://velog.io/@moduggagi/HikariCP-내부-구조-파헤치기-4-커넥션-반납-흐름) | 2026.04.25 |
+| [HikariCP 내부 구조 파헤치기 (3) - 커넥션 요청 흐름](https://velog.io/@moduggagi/HikariCP-내부-구조-파헤치기-3-커넥션-요청-흐름) | 2026.04.25 |
+| [HikariCP 내부 구조 파헤치기 (2) - 커넥션 풀 초기화](https://velog.io/@moduggagi/HikariCP-내부-구조-파헤치기-2-커넥션-풀-초기화) | 2026.04.25 |
+| [HikariCP 내부 구조 파헤치기 (1) - 전체 구조](https://velog.io/@moduggagi/HikariCP-내부-구조-파헤치기-1-전체-구조) | 2026.04.24 |
+| [if-else, switch로 시작해서 객체지향으로 리팩토링하기](https://velog.io/@moduggagi/if-else-switch로-시작해서-객체지향으로-리팩토링하기) | 2026.04.08 |
+| [Test Double과 Mockito 기초 사용법 알아보기](https://velog.io/@moduggagi/Test-Double과-Mockito-기초-사용법-알아보기) | 2026.03.23 |
+| [Stream.distinct() vs Set.copyOf() — 중복 제거, 뭐가 더 나을까?](https://velog.io/@moduggagi/Stream.distinct-vs-Set.copyOf) | 2026.03.22 |
+| [@MethodSource 동작 방식 알아보기](https://velog.io/@moduggagi/MethodSource-동작-방식-알아보기) | 2026.03.22 |
