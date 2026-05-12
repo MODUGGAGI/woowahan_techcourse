@@ -71,9 +71,10 @@
 - 웹 프로그래밍 과정에서도 `읽기 좋은 코드, 유지보수하기 좋은 코드`를 작성하는 경험을 한다.
 
 ### 진행 미션
-| 미션 | Repository | Pull Request | Pair | Reviewer |
-|:---:|:---:|:---:|:----:|:--------:|
-| 방탈출 예약 관리 | [spring-roomescape-admin](https://github.com/MODUGGAGI/spring-roomescape-admin) | [Pull Request](https://github.com/woowacourse/spring-roomescape-admin/pull/369) |  -   | [제이미]()  |
+|        미션         |                                    Repository                                    | Pull Request |  Pair  | Reviewer |
+|:-----------------:|:--------------------------------------------------------------------------------:|:---:|:------:|:--------:|
+|     방탈출 예약 관리     | [spring-roomescape-admin](https://github.com/MODUGGAGI/spring-roomescape-admin/tree/step1)  | [Pull Request](https://github.com/woowacourse/spring-roomescape-admin/pull/369) |   -    | [제이미](https://github.com/jamie9504)  |
+| 방탈출 사용자 예약/cycle1 | [spring-roomescape-member](https://github.com/MODUGGAGI/spring-roomescape-member/tree/step1) | [Pull Request](https://github.com/woowacourse/spring-roomescape-member/pull/391) | [카야](https://github.com/choiyoung69) |  [비밥](https://github.com/pci2676)  |
 
 ### 블로그 포스팅
 | 제목 | 작성일 |
